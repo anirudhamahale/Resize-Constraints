@@ -1,4 +1,4 @@
-<h1>This is simple way of modifying your NSLayoutConstraints applied to UIView and it's subviews</h1>
+<h1>This is simple way of resizing your NSLayoutConstraints applied to UIView and it's subviews</h1>
 <h2>Steps</h2>
 <ul>
   <li> Drag and Drop AutoLayout.swift file in your xcode project select copy item
